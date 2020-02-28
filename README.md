@@ -1,28 +1,36 @@
 # Translations
 Technical documentation and whitepapers of cryptocurrencies translated into italian by me and my team (Alessandro, Francesco, Giovanni)
 
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/Morpheus-Temp-Logo-Shadow.png" width="100" height="100">
+
 ###### Morpheus.Network Project:
 
 * Morpheus.Network ANN Thread: https://bitcointalk.org/index.php?topic=2857832.0
+
+<img src="hhttps://raw.githubusercontent.com/Luigi2110/Translations/master/img/Loomia-logo-150x150.jpg" width="100" height="100">
 
 ###### LOOMIA Project:
 
 * LOOMIA ANN Thread: https://bitcointalk.org/index.php?topic=2389028.0
 
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/MLemk-TG_400x400.jpg" width="100" height="100">
+
 ###### On.Live Project:
 
 * On.Live ANN Thread: https://bitcointalk.org/index.php?topic=2899215.0
+
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/fbFh3z7e_400x400.jpg" width="100" height="100">
 
 ###### OS.University Project:
 
 * OS.University ANN Thread: https://bitcointalk.org/index.php?topic=2716539.0
 
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/apollon.jpg" width="100" height="100">
+
 ###### Apollon Project:
 
 * Apollon ANN Thread: https://bitcointalk.org/index.php?topic=4846011.0
 * Apollon whitepaper: https://drive.google.com/file/d/1sUf6Ckc9PUVLtqCsr7V9uk6JsCCMnYqz/view
-
-
 
 <img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/0fVlVtzv_400x400.jpg" width="100" height="100">
 
