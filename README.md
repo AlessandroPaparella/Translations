@@ -1,6 +1,29 @@
 # Translations
 Technical documentation and whitepapers of cryptocurrencies translated into italian by me and my team (Alessandro, Francesco, Giovanni)
 
+###### Morpheus.Network Project:
+
+* Morpheus.Network ANN Thread: https://bitcointalk.org/index.php?topic=2857832.0
+
+###### LOOMIA Project:
+
+* LOOMIA ANN Thread: https://bitcointalk.org/index.php?topic=2389028.0
+
+###### On.Live Project:
+
+* On.Live ANN Thread: https://bitcointalk.org/index.php?topic=2899215.0
+
+###### OS.University Project:
+
+* OS.University ANN Thread: https://bitcointalk.org/index.php?topic=2716539.0
+
+###### Apollon Project:
+
+* Apollon ANN Thread: https://bitcointalk.org/index.php?topic=4846011.0
+* Apollon whitepaper: https://drive.google.com/file/d/1sUf6Ckc9PUVLtqCsr7V9uk6JsCCMnYqz/view
+
+
+
 <img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/0fVlVtzv_400x400.jpg" width="100" height="100">
 
 ###### COSS Project:
