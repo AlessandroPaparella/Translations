@@ -1,5 +1,12 @@
 # Translations
-Technical documentation and whitepapers of cryptocurrencies translated into italian:
+Technical documentation and whitepapers of cryptocurrencies translated into italian
+
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/0fVlVtzv_400x400.jpg" width="100" height="100">
+
+###### COSS Project:
+
+* COSS ANN Thread: https://bitcointalk.org/index.php?topic=2080490.0
+* COSS whitepaper: https://drive.google.com/file/d/0B_E9kM2spzB-cktocnMxenNzalk/view
 
 * Ethereum.Link ANN thread (bitcointalk): https://bitcointalk.org/index.php?topic=1898492.0
 * Space Pirate ANN thread (bitcointalk): https://bitcointalk.org/index.php?topic=1912585.0
@@ -35,7 +42,6 @@ Technical documentation and whitepapers of cryptocurrencies translated into ital
 * QVOLTA ANN Thread: https://bitcointalk.org/index.php?topic=2069444.0
 * Aventus ANN Thread: https://bitcointalk.org/index.php?topic=1977887.0
 * Glutoken ANN Thread: https://bitcointalk.org/index.php?topic=2064689.0
-* COSS ANN Thread: https://bitcointalk.org/index.php?topic=2080490.0
 * Espers ANN Thread: https://bitcointalk.org/index.php?topic=1999897.0
 * Whitepaper Pickcoin:https://drive.google.com/file/d/0B2jhGDErsSjLd21JaGVORWJSX28/view
 * Whitepaper Rex:https://drive.google.com/file/d/0BwURrWC4-TQTcENYaHVKV1BoZTA/view
@@ -48,4 +54,3 @@ Technical documentation and whitepapers of cryptocurrencies translated into ital
 * Aventus whitepaper:https://drive.google.com/file/d/0B_E9kM2spzB-ckE5MVkwRk5hb2M/view
 * Glutoken whitepaper:https://drive.google.com/file/d/0B_E9kM2spzB-LXZlSVZ4ZUJ0R3M/view
 * Blocklancer whitepaper:https://drive.google.com/file/d/0BwURrWC4-TQTODlPSlR4U3V3bHc/view
-* COSS whitepaper: https://drive.google.com/file/d/0B_E9kM2spzB-cktocnMxenNzalk/view
