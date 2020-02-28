@@ -1,13 +1,61 @@
 # Translations
 Technical documentation and whitepapers of cryptocurrencies translated into italian by me and my team (Alessandro, Francesco, Giovanni)
 
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/sfq4CY75_400x400.jpg" width="100" height="100">
+
+###### Cindicator Project:
+
+* Cindicator ANN Thread: https://bitcointalk.org/index.php?topic=2124790.0
+
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/1%20JTlyiBCUz45ldici75GdZA.png" width="100" height="100">
+
+###### Bancor Project:
+
+* Bancor medium blog post: https://medium.com/@Luigi211033/sblocca-i-tuoi-token-dal-tuo-smartphone-44a29a1f8fc1
+* Bancor medium blog post: https://medium.com/@Luigi211033/yoni-assia-fondatore-e-ceo-di-etoro-partecipa-al-consiglio-consultivo-sul-protocollo-bancor-b2f8d8ec1c3a
+* Bancor medium blog post: https://medium.com/@Luigi211033/contratti-bancor-controllati-e-dislocati-3c3032e8f175
+* Bancor Medium Blog Post: https://medium.com/@Luigi211033/le-domande-molto-frequenti-sul-protocollo-bancor-9cf1463ac7ab
+
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/L2i0Pcwb_400x400.jpg" width="100" height="100">
+
+###### AdEx Project:
+
+* AdEx ANN Thread: https://bitcointalk.org/index.php?topic=1986442.msg19780107#msg19780107
+
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/0fVlVtzv_400x400.jpg" width="100" height="100">
+
+###### COSS Project:
+
+* COSS ANN Thread: https://bitcointalk.org/index.php?topic=2080490.0
+* COSS whitepaper: https://drive.google.com/file/d/0B_E9kM2spzB-cktocnMxenNzalk/view
+
 <img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/Morpheus-Temp-Logo-Shadow.png" width="100" height="100">
 
 ###### Morpheus.Network Project:
 
 * Morpheus.Network ANN Thread: https://bitcointalk.org/index.php?topic=2857832.0
 
-<img src="hhttps://raw.githubusercontent.com/Luigi2110/Translations/master/img/Loomia-logo-150x150.jpg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/DyI_DOAM_400x400.jpg" width="100" height="100">
+
+###### Wagerr Project:
+
+* Wagerr ANN thread (bitcointalk): https://bitcointalk.org/index.php?topic=1941104.0
+
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/PUNFsvGI_400x400.jpg" width="100" height="100">
+
+###### Indorse Project:
+
+* Indorse ANN Thread: https://bitcointalk.org/index.php?topic=2045241.0
+* Indorse whitepaper:https://drive.google.com/file/d/0B_E9kM2spzB-bjNqN004LWowd2c/view
+
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/HigqW4nX_400x400.jpg" width="100" height="100">
+
+###### Imbrex Project:
+
+* Imbrex ANN thread (bitcointalk): https://bitcointalk.org/index.php?topic=1942790.0
+* Whitepaper Imbrex:https://drive.google.com/file/d/0BwURrWC4-TQTcENYaHVKV1BoZTA/view
+
+<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/Loomia-logo-150x150.jpg" width="100" height="100">
 
 ###### LOOMIA Project:
 
@@ -32,28 +80,12 @@ Technical documentation and whitepapers of cryptocurrencies translated into ital
 * Apollon ANN Thread: https://bitcointalk.org/index.php?topic=4846011.0
 * Apollon whitepaper: https://drive.google.com/file/d/1sUf6Ckc9PUVLtqCsr7V9uk6JsCCMnYqz/view
 
-<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/0fVlVtzv_400x400.jpg" width="100" height="100">
-
-###### COSS Project:
-
-* COSS ANN Thread: https://bitcointalk.org/index.php?topic=2080490.0
-* COSS whitepaper: https://drive.google.com/file/d/0B_E9kM2spzB-cktocnMxenNzalk/view
-
 <img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/1%20IzHEviFQFqNf2AI-1IGTPQ.png" width="100" height="100">
 
 ###### GetBounty Project:
 
 * GetBounty ANN thread (bitcointalk): https://bitcointalk.org/index.php?topic=1895609.0
 * GetBounty Website: https://github.com/Luigi2110/Getbounty
-
-<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/1%20JTlyiBCUz45ldici75GdZA.png" width="100" height="100">
-
-###### Bancor Project:
-
-* Bancor medium blog post: https://medium.com/@Luigi211033/sblocca-i-tuoi-token-dal-tuo-smartphone-44a29a1f8fc1
-* Bancor medium blog post: https://medium.com/@Luigi211033/yoni-assia-fondatore-e-ceo-di-etoro-partecipa-al-consiglio-consultivo-sul-protocollo-bancor-b2f8d8ec1c3a
-* Bancor medium blog post: https://medium.com/@Luigi211033/contratti-bancor-controllati-e-dislocati-3c3032e8f175
-* Bancor Medium Blog Post: https://medium.com/@Luigi211033/le-domande-molto-frequenti-sul-protocollo-bancor-9cf1463ac7ab
 
 <img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/1_40.png" width="100" height="100">
 
@@ -87,12 +119,6 @@ Technical documentation and whitepapers of cryptocurrencies translated into ital
 * Primalbase ANN thread (bitcointalk): https://bitcointalk.org/index.php?topic=1958874.0
 * Primalbase Website: https://github.com/Luigi2110/Primalbase
 
-<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/DyI_DOAM_400x400.jpg" width="100" height="100">
-
-###### Wagerr Project:
-
-* Wagerr ANN thread (bitcointalk): https://bitcointalk.org/index.php?topic=1941104.0
-
 <img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/HTKBtIqv_400x400.jpg" width="100" height="100">
 
 ###### Pink Coin Project:
@@ -100,24 +126,11 @@ Technical documentation and whitepapers of cryptocurrencies translated into ital
 * Pink Coin ANN thread (bitcointalk): https://bitcointalk.org/index.php?topic=1899804.0
 * Whitepaper Pickcoin:https://drive.google.com/file/d/0B2jhGDErsSjLd21JaGVORWJSX28/view
 
-<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/HigqW4nX_400x400.jpg" width="100" height="100">
-
-###### Imbrex Project:
-
-* Imbrex ANN thread (bitcointalk): https://bitcointalk.org/index.php?topic=1942790.0
-* Whitepaper Imbrex:https://drive.google.com/file/d/0BwURrWC4-TQTcENYaHVKV1BoZTA/view
-
 <img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/KxkGb9ia_400x400.jpg" width="100" height="100">
 
 ###### MIV Project:
 
 * MIV ANN Thread: https://bitcointalk.org/index.php?topic=1986791.0
-
-<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/L2i0Pcwb_400x400.jpg" width="100" height="100">
-
-###### AdEx Project:
-
-* AdEx ANN Thread: https://bitcointalk.org/index.php?topic=1986442.msg19780107#msg19780107
 
 <img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/Nobt2-Artboard%201%400.5x.png" width="100" height="100">
 
@@ -131,13 +144,6 @@ Technical documentation and whitepapers of cryptocurrencies translated into ital
 
 * Blocklancer ANN Thread: https://bitcointalk.org/index.php?topic=2009737.0
 * Blocklancer whitepaper:https://drive.google.com/file/d/0BwURrWC4-TQTODlPSlR4U3V3bHc/view
-
-<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/PUNFsvGI_400x400.jpg" width="100" height="100">
-
-###### Indorse Project:
-
-* Indorse ANN Thread: https://bitcointalk.org/index.php?topic=2045241.0
-* Indorse whitepaper:https://drive.google.com/file/d/0B_E9kM2spzB-bjNqN004LWowd2c/view
 
 <img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/V5jycm8W_400x400.jpg" width="100" height="100">
 
@@ -200,12 +206,6 @@ Technical documentation and whitepapers of cryptocurrencies translated into ital
 * Spectiv ANN thread (bitcointalk): https://bitcointalk.org/index.php?topic=1979680.0
 * Whitepaper Spectiv:https://drive.google.com/file/d/0B_E9kM2spzB-U2JoSWI1QWYzODg/view
 * Executive Summary Spectiv:https://drive.google.com/file/d/0BwURrWC4-TQTYjhtLXk0b3VtYTg/view
-
-<img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/sfq4CY75_400x400.jpg" width="100" height="100">
-
-###### Cindicator Project:
-
-* Cindicator ANN Thread: https://bitcointalk.org/index.php?topic=2124790.0
 
 <img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/t4hWgYKJ_400x400.jpg" width="100" height="100">
 
