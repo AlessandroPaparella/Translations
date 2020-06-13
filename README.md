@@ -1,5 +1,5 @@
 # Translations
-Technical documentation and whitepapers of cryptocurrencies translated into italian by me and my team (Alessandro, Francesco, Giovanni)
+Technical documentation and whitepapers of cryptocurrencies translated into italian by me and my team ([Alessandro](https://github.com/AlessandroPaparella), [Francesco](https://github.com/franz-ops), Giovanni)
 
 <img src="https://raw.githubusercontent.com/Luigi2110/Translations/master/img/sfq4CY75_400x400.jpg" width="100" height="100">
 
